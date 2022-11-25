@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @akash202004
+- 👋 Hi, I’m Akash Laha
+- 👨‍🎓 I'm a pursuing BTech in CSE
 - 👀 I’m interested in learning new programming languages
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on with people of my same interest
