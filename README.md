@@ -28,7 +28,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,git,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10"  />
 </p>
 <br />
 
