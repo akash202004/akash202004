@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash202004&label=Profile%20views&color=0e75b6&style=flat" alt="akash202004" /> </p>
-<h4 align="center">🦄 Ask me about Web, Finance, Upcoming Technologies</h4>
+<h4 align="center">🦄 Ask me about Web, Finance, Blockchain, Upcoming Technologies</h4>
 
-<h4 align="center">⚡ Fun fact The tech boom is NOTHING compared to the Gold Rush 🪙</h4>
+<h4 align="center">⚡ During a gold rush, sell shovels  🪙</h4>
 
 <!-- Soicals -->
 <h2 align="center">Connect with me</h2>
