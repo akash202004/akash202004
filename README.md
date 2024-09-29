@@ -30,21 +30,9 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10"  />
 </p>
-<br />
 
+<hr/>
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akash202004/akash202004/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" /></p>
