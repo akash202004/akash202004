@@ -30,9 +30,12 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10"  />
 </p>
-
+<!--Snake--> 
 <hr/>
+![snake gif](https://github.com/akash202004/akash202004/blob/output/github-contribution-grid-snake.gif)
 <br/>
+
+<!--Contribution--> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" /></p>
