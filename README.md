@@ -32,6 +32,18 @@
 </p>
 <br />
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akash202004/akash202004/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" /></p>
 
