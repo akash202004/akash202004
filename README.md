@@ -45,6 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash202004&theme=nightowl" alt="akash202004" /></p>
 
+![](https://github-contributor-stats.vercel.app/api?username=akash202004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
