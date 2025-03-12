@@ -9,7 +9,7 @@
 
 <!-- Gif -->
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif?loop=1" />
+  <img height="200" src="https://media4.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif?loop=10" />
 </div>
 
 
