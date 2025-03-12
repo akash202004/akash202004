@@ -9,8 +9,9 @@
 
 <!-- Gif -->
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWszNHdnc2w0Z2xpNjdkc3A4MXgzbDRtbm91cm45MmRmMzd6djk5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" />
+  <img height="200" src="https://media4.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif?loop=1" />
 </div>
+
 
 <!-- Socials -->
 <h2 align="center">Connect with me</h2>
