@@ -14,6 +14,7 @@
 
 
 <!-- Socials -->
+<!--
 <h2 align="center">🖇️ Connect with me 🖇️</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/akash-laha-799427244/" target="_blank">
