@@ -54,10 +54,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash202004&theme=nightowl" alt="akash202004" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=akash202004&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+-->
 
 <!-- Footer -->
 <p align="center">
