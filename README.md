@@ -1,11 +1,11 @@
 <!-- About -->
-<h1 align="center">Hey ♋, I'm Akash Laha</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hola 🖐️, I'm Akash Laha</h1>
+<!-- <h3 align="center">A passionate Full-Stack Developer from India</h3> -->
+<h4 align="center">⚡ During a gold rush, sell shovels 🪙</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akash202004&label=Profile%20views&color=0e75b6&style=flat" alt="akash202004" />
 </p>
-<h4 align="center">🦄 Ask me about Web Development, Self Development, Blockchain, Upcoming Technologies</h4>
-<h4 align="center">⚡ During a gold rush, sell shovels 🪙</h4>
+<!-- <h4 align="center">🦄 Ask me about Web Development, Self Development, Blockchain, Upcoming Technologies</h4> -->
 
 <!-- Gif -->
 <div align="center">
@@ -31,10 +31,11 @@
 </div>
 
 <!-- Languages and Tools Section -->
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+
+<!-- <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center">
   <img width="500px" src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10" />
-</p>
+</p> -->
 
 <!-- Snake Contributions -->
 <div align="center">
@@ -47,9 +48,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash202004&theme=nightowl" alt="akash202004" />
 </p>
