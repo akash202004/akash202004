@@ -1,5 +1,5 @@
 <!-- About -->
-<h1 align="center">Hola 🖐️, I'm Akash Laha</h1>
+<h1 align="center">Hola ✊🏻, I'm Akash Laha</h1>
 <!-- <h3 align="center">A passionate Full-Stack Developer from India</h3> -->
 <h4 align="center">⚡ During a gold rush, sell shovels 🪙</h4>
 <p align="center">
