@@ -9,8 +9,14 @@
 
 <!-- Gif -->
 <div align="center">
-  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNkYnYxMnQ2MDI2aW5ncHR2d3dqYXpwbjdvNXdhZDBvNnI3ZWppbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ht4oClZ65E2d5bUtPF/giphy.gif?loop=10" />
+  <img
+    height="400"
+    width="800"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h4b3VjcTF4ZXc5eDFtNGptYzhtNmU4czl0ZDAxcHpsMGIxMG9hMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5ClzFGMhiu8iuDZ4x/giphy.gif"
+    alt="GIF"
+  />
 </div>
+
 
 <!-- Socials -->
 <!--
