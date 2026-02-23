@@ -51,9 +51,9 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📶 GitHub Stats 📶</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" />
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" />
 </p> -->
