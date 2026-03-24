@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" />
 </p> -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akash202004&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akashcorex&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
 </p>
 
