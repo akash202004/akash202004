@@ -51,15 +51,18 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📶 GitHub Stats 📶</h2>
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash202004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" />
 </p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash202004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" />
 </p> -->
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akashcorex&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=akashcorex&theme=dark-smoky" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!--
